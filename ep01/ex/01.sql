@@ -9,6 +9,6 @@ SELECT
       count(DISTINCT product_id) as qtde_products_distincts,
       count(DISTINCT product_category_name) as qtde_categories_distincts
 
-from tb_products
- 
-where product_category_name = 'artes'
+FROM tb_products
+
+WHERE product_category_name = 'artes'
