@@ -1,0 +1,1 @@
+-- Ex2. Faça uma query que apresente o tamanho médio, máximo e mínimo do nome do objeto por categoria
